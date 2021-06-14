@@ -35,6 +35,7 @@ footer {
 
 ul {
     font-size: 1.4em;
+    line-height: 1.8em;
 }
 
 ul.posts { 
@@ -46,6 +47,3 @@ ul.posts li {
     list-style: none;
 }
 
-li:not(:last-child) {
-    margin-bottom: 8px;
-}
