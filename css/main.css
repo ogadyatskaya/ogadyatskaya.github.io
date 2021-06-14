@@ -45,3 +45,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+img.resize {
+  max-width:40%;
+  max-height:40%;
+}
