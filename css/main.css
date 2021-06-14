@@ -47,5 +47,5 @@ ul.posts li {
 }
 
 li:not(:last-child) {
-    margin-bottom: 5px;
+    margin-bottom: 6px;
 }
